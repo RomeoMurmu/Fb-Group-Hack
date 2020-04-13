@@ -1,4 +1,4 @@
-# FB-Group-Hack2
+# FB-Group-Hack
 
 # *how to run the script :  
 
